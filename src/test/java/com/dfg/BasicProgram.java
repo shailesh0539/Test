@@ -6,7 +6,7 @@ public class BasicProgram {
 		System.out.println("Hello World");
 		System.out.println("HW");
 		System.out.println("Prime");
-		
+		System.out.println("Odd");
 		
 	}
 }
